@@ -58,9 +58,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsc7th/bsc7th/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsc7th/bsc7th/output/pacman-contribution-graph.svg">
-  <img alt=" bsc7th pacman contribution graph" src="https://raw.githubusercontent.com/bsc7th/bsc7th/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsc7th/bsc7th/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsc7th/bsc7th/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bsc7th/bsc7th/output/github-snake.svg" />
 </picture>
 
 ###
