@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bsc7th.bsc7th&"  />
-</div>
-
-###
-
 <h1 align="center">Hello there! 👋🏻</h1>
 
 ###
